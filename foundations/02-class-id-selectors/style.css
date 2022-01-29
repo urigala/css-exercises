@@ -1,0 +1,20 @@
+.pink-tone {
+    background-color: #E8DCDC;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+.pink-n-big {
+    font-size: 24px;
+}
+
+#just-blue {
+    color: blue;
+    font-size: 32px;
+}
+
+#bluer-bolder {
+    background-color: greenyellow;
+    font-weight: bold;
+
+}
